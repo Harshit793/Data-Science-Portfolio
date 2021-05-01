@@ -1,13 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-<style>
-div.relative {
-  position: relative;
-  left: 30px;
-}
-</style>
-</head>
 <body>
 <h1 > Data Science Portfolio </h1>
 <p style="font-size:130%;">Repository containing portfolio of data science projects completed by me for self learning at a starting level.Presented in the form of iPython Notebooks.</p>
