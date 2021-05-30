@@ -13,9 +13,9 @@
   <dd><li><h3> Python </h3> </li></dd>
 
 <div class="relative">
-  <dd><li><p style="font-size:120%;"><a href="https://github.com/Harshit793/Data-Science-Portfolio/blob/master/Pima_Indian_diabetes.ipynb">Pima Indian diabetes dataset-Exploratory Analysis</a>:using Pandas,Matplotlib and Seaborn.</p></li><dd>
+  <dd><li><p style="font-size:120%;"><a href="https://github.com/Harshit793/Data-Science-Portfolio/blob/master/Pima_Indian_diabetes.ipynb">Pima Indian diabetes dataset-Exploratory Analysis</a>:using Pandas,Matplotlib,Plotly and Seaborn.</p></li><dd>
 </div>
-<dd><p style="font-size:110%;">Tools:Pandas,Seaborn and Matplotlib</dd></p>
+<dd><p style="font-size:110%;">Tools:Pandas,Seaborn,Plotly and Matplotlib</dd></p>
 </ul>
 </dl>
 </body>
